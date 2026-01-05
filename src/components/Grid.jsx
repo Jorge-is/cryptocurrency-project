@@ -1,9 +1,9 @@
 import axios from "axios"
 import { useEffect, useState } from "react"
-import "./App.css"
-import Cripto from "./components/Cripto"
+import "./Grid.css"
+import Cripto from "./cripto/Cripto"
 
-function App() {
+function Grid() {
 
   const API_URL = import.meta.env.VITE_API_URL
   const API_KEY = import.meta.env.VITE_API_KEY
@@ -37,4 +37,4 @@ function App() {
   )
 }
 
-export default App
+export default Grid
