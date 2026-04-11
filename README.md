@@ -1,4 +1,4 @@
-# CriptoMarket 🚀
+# CriptoMarket
 
 Un portal web moderno y profesional para visualizar, analizar y guardar el progreso del mercado de criptomonedas en tiempo real. Desarrollado como un proyecto escalable de nivel Senior utilizando **React, Vite y Supabase**.
 
